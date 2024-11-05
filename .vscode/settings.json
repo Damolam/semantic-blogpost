@@ -1,0 +1,7 @@
+{
+    "git.supportCancellation": true,
+    "git.allowNoVerifyCommit": true,
+    "git.autofetch": true,
+    "git.alwaysSignOff": false,
+    "git.alwaysShowStagedChangesResourceGroup": true
+}

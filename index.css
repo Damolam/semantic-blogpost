@@ -2,6 +2,16 @@ body{
 	margin: 0;
 	padding: 0;
 	box-sizing: border-box;
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+	
+}
+.container{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
 }
 header{
 	background-color: gray;
@@ -18,16 +28,12 @@ footer{
 	padding: 20px;
 	font-size: 20px;
 }
-    
-.center{
-	display: flex;
-	justify-content: center;
-}
 
 .center2{
-	text-align: center;
-	/* width: 90%; */
+	width: 77%;
+
 }
+
 .option{
 	width: 100%;
 	border-radius: 20px;
